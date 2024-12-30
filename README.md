@@ -1,1 +1,1 @@
-creating palindromic sequences using python# bioinfo
+creating palindromic sequences using python. #bioinfo
